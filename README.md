@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saurabhchaturvedy
+- 👋 Hi, I’m Saurabh Chaturvedi
 - 👀 I’m interested in continuosly upskill and become T-shaped professional
 - 🌱 I’m currently learning datastructures , reactive programming , and javascript
 - 💞️ I use this profile as a means to learn more about software development  
