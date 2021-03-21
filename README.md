@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh Chaturvedi
-- 👀 I’m interested in continuosly upskill and become T-shaped professional
+- 👀 I’m interested in continuosly upskill myself and become T-shaped professional
 - 🌱 I’m currently learning datastructures , reactive programming , and javascript
 - 💞️ I use this profile as a means to learn more about software development  
 - 📫 How to reach me ...https://www.linkedin.com/in/saurabh-chaturvedi-473a4251/
