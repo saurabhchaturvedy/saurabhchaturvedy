@@ -17,10 +17,3 @@
   
   [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4193280)](https://stackoverflow.com/users/14122375/https://stackoverflow.com/users/4193280/saurabh-chaturvedi)
   
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-  
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-<!---
-saurabhchaturvedy/saurabhchaturvedy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
