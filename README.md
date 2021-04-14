@@ -11,7 +11,7 @@
   
   [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4193280)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
   
-  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
   
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!---
