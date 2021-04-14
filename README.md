@@ -1,4 +1,4 @@
-<img src="https://github.com/saurabhchaturvedy/saurabhchaturvedy/blob/master/header.png?raw=true">
+<img src="https://github.com/saurabhchaturvedy/saurabhchaturvedy/blob/main/header.png">
 - 👋 Hi, I’m Saurabh Chaturvedi
 - 👀 I’m interested in continuosly upskill myself and become T-shaped professional
 - 🌱 I’m currently learning datastructures , reactive programming , and javascript
