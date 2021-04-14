@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhchaturvedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   
-  [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4193280)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+  [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4193280)](https://stackoverflow.com/users/14122375/https://stackoverflow.com/users/4193280/saurabh-chaturvedi)
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
   
