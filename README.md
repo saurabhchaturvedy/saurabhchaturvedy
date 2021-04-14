@@ -13,8 +13,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saurabhchaturvedy&count_private=true&show_icons=true&theme=algolia&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saurabhchaturvedy&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+</p>  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
   
   [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4193280)](https://stackoverflow.com/users/14122375/https://stackoverflow.com/users/4193280/saurabh-chaturvedi)
   
