@@ -16,7 +16,7 @@
 </p>  
   
   
-<p>[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/saurabhchaturvedy)</p>
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/4193280/saurabhchaturvedy)
   
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saurabhchaturvedy&show_icons=true&theme=gotham" alt="saurabhchaturvedy" />
   
