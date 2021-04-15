@@ -17,3 +17,5 @@
   
   [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=4193280)](https://stackoverflow.com/users/14122375/https://stackoverflow.com/users/4193280/saurabh-chaturvedi)
   
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saurabhchaturvedy&show_icons=true&theme=gotham" alt="saurabhchaturvedy" />
+  
