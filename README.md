@@ -1,4 +1,4 @@
-<img src="https://github.com/saurabhchaturvedy/saurabhchaturvedy/blob/main/header.png">
+
 
 
 - 👋 Hi, I’m Saurabh Chaturvedi
